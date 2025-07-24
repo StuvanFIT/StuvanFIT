@@ -65,7 +65,6 @@ Things I like to do:
 </p>
 
 ---
-
 ## Deployment & Hosting  
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -73,4 +72,17 @@ Things I like to do:
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7"/>
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
+
+---
+## Project Management Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linear-5E6AD2.svg?style=for-the-badge&logo=linear&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white"/>
+</p>
+
+---
+
 
