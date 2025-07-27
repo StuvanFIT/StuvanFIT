@@ -75,6 +75,10 @@ Things I like to do:
 </p>
 
 ---
+## Data Visualisation
+<p align="left"> <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white"/> </p>
+
+---
 ## Project Management Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white"/>
