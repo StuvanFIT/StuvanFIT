@@ -15,10 +15,11 @@ Check out my [data visualisation portfolio!](https://public.tableau.com/app/prof
 
 Things I like to do:
 
-- Researching and learning about new stocks and ETFs to invest in! From time to time, I swing trade!
+- Researching and learning about new stocks to invest in! From time to time, I swing trade or option trade!
 - Love going to the Gym!
-- Building web stack applications!
-- Watch Netflix series and anime!
+- Hiking
+- Swimming
+
 
 ## 🌐 Connect with me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaingsteven123@gmail.com) 
