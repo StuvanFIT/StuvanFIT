@@ -5,9 +5,10 @@ I am a third-year Software engineering student at Monash University, passionate 
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring LSTM Stock Price Predictions with [scikit-learn](https://scikit-learn.org/)
-- 💻 Learning new DevOps tools
+Currently working on Kindred Words — a space dedicated to suicide prevention. If you have a moment, consider leaving a message that might mean the world to someone who needs it
 
+[Kindred Words - You are not alone](https://kindred-words.vercel.app/) 
+  
 Check out my [coding portfolio!](https://steven-portfolio-five.vercel.app/) \
 Check out my [data visualisation portfolio!](https://public.tableau.com/app/profile/steven.kaing/vizzes)
 
