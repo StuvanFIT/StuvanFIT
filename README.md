@@ -9,7 +9,7 @@ Currently working on Kindred Words — a space dedicated to suicide prevention. 
 
 [Kindred Words - You are not alone](https://kindred-words.vercel.app/) 
   
-Check out my [coding portfolio!](https://steven-portfolio-five.vercel.app/) \
+Check out my [coding portfolio!](https://steven-kaing-portfolio.vercel.app/) \
 Check out my [data visualisation portfolio!](https://public.tableau.com/app/profile/steven.kaing/vizzes)
 
 ## 🎓 About Me
